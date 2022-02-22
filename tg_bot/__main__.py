@@ -39,7 +39,7 @@ the things I can help you with.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = """[Group](t.me/JohnMiltonHacks) [PayPal](paypal.me/J0hnMilt0n).
+DONATE_STRING = """[Group](https://t.me/+6Qw3MfloCixjNGY1) [PayPal](paypal.me/J0hnMilt0n).
 """
 
 IMPORTED = {}
